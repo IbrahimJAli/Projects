@@ -1,4 +1,4 @@
-WORK IN PROGRESS PROJECT Will add once project it done
+WORK IN PROGRESS PROJECT Will add once project is complete
 
 # ♟️ Online Checkers Game
 
