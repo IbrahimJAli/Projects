@@ -10,8 +10,6 @@ Connect with me:
 
 🌐 Resume: https://lime-miguela-1.tiiny.site
 
-🐙 GitHub: 
-
 
 # 📁 Project Index
 
