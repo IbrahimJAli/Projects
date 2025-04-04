@@ -13,13 +13,14 @@ Connect with me:
 🐙 GitHub: 
 
 
-## 📁 Project Index
+# 📁 Project Index
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
 | [`Checkers`] | Online checkers game. Play with firends or bots | e.g., JSON, Java |
 | [`Digital Pet Simulator`] | Recreated popular childs toy tamagotchi. | e.g., Java, Java.Swing |
 | [`PikeTrack`] | UTA Pike's online libary tracker. | e.g., HTML, CSS, Python, MongoDB |
+
 
 🧰 Tech Stack (General)
 Programming Languages: Java, C, etc.
